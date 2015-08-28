@@ -1,0 +1,8 @@
+Viktor,25,Man,Mongloid,Buggatti
+Roma,22,Man,Africoid,Audi
+Alex,11,Woman,Austroloid,Bmw
+Kondrat,52,Man,Mongloid,Maclaren
+Orest,13,Man,American,Merssedes
+Kolya,24,Man,Africoid,Ausi
+Lesya,16,Woman,Africoid,Bmw
+Olya,19,Gender,Austroloid,Bmw
